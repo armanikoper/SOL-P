@@ -1,0 +1,7 @@
+app = "solana-fly-pinger"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PORT = "8080"
